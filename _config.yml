@@ -23,7 +23,7 @@ repository               : "sandrowiesmann/sandrowiesmann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Sandro-Wiesmann.jpg"
   name             : "Sandro L. Wiesmann, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive psychologist & vision scientist"
