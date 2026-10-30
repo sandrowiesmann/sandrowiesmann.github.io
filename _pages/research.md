@@ -7,8 +7,9 @@ redirect_from:
 
 {% include base_path %}
 
-![Lab logo]({{ '/images/Perception and Inference Lab.png' | relative_url }})
-
+![Lab logo]({{ '/images/Perception and Inference Lab.png' | relative_url }})  
+  
+  
 Human scene understanding
 ======
 We have the  ability to make sense of the incredibly complex visual world around us within a fraction of a second. How do we achieve this remarkable feat? Which information do we use to categorize scenes as kitchens or classrooms, recognize objects such as pans and laptops, or infer the actions one can carry out in an environment?  
