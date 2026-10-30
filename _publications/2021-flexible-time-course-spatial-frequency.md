@@ -3,7 +3,7 @@ title: "Flexible time course of spatial frequency use during scene categorizatio
 collection: publications
 category: manuscripts
 permalink: /publication/flexible-time-course-spatial-frequency
-authors: Wiesmann, Caplette, Willenbockel et al.
+authors: Wiesmann, Caplette, Willenbockel, Gosselin & Võ
 year: 2021
 venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-021-93252-2'
