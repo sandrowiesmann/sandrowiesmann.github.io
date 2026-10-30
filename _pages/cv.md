@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Psychology, Goethe University Frankfurt, (2019-2023)  
+###Ph.D. in Psychology, Goethe University Frankfurt, (2019-2023)  
   Thesis title: The role of object and global scene information during human scene categorization
   
-M.Sc. in Cognitive and Clinical Psychology, Goethe University Frankfurt (2015-2018)  
+###M.Sc. in Cognitive and Clinical Psychology, Goethe University Frankfurt (2015-2018)  
   Thesis title: From coarse blobs to fine edges? The time course of spatial frequency processing during scene categorization
   
-B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)  
+###B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)  
   Thesis title: The relationship of object-specific sensorimotor experience and automatized actions
 
 Work experience
 ======
-Research associate at Goethe University, Frankfurt (2019-present)
+###Research associate at Goethe University, Frankfurt (2019-present)
 * Independent [research](/research)
 * [Teaching](/teaching) lectures, seminars, and practical courses
 * Supervision of Bachelor, Master, and doctoral students
@@ -30,12 +30,12 @@ Research associate at Goethe University, Frankfurt (2019-present)
 * Academic self-governance, member of several committees
 
   
-Student assistant, Max Planck Institute for Empirical Aesthetics (2015-2018)
+###Student assistant, Max Planck Institute for Empirical Aesthetics (2015-2018)
 * Supporting interdisciplinary research in the department for music
 * Data analysis and manuscript preparation
 
   
-Student assistant, Goethe University, Frankfurt (2012-2015)
+###Student assistant, Goethe University, Frankfurt (2012-2015)
 * Supporting different quantitative and qualitative research projects
 * Assisting administration and teaching
 
