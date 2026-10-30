@@ -5,5 +5,6 @@ category: unpublished
 permalink: /publication/processing-identifying-natural-scenes
 venue: 'Manuscript in preparation'
 authors: David, Wiesmann & Võ
+date: 2026-07-01
 citation: 'David, E., Wiesmann, S. L., &amp; Võ, M. L.-H. (in preparation). &quot;Processing and identifying natural scenes solely from relational information.&quot;'
 ---
