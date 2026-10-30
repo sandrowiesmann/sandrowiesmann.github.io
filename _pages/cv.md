@@ -45,6 +45,13 @@ Awards
 * 2024: YAVIS prize for the best lecture 2024, awarded by the psychology students at Goethe University (1000€)
 * 2019: Young-YAVIS prize for excellent teaching, awarded by the psychology students at Goethe University (100€)
 * 2018: Schwanenberg prize for the best Master thesis 2018, awarded by the alumni network psychology at Goethe University (1000€)
+ 
+Service 
+======
+* Member of the examination board Bachelor & Master Psychology (2021-present)
+* Member of the PhD board Psychology (2024-present)
+* Reviewer for several journals (Journal of Neuroscience, PLOS One, Cognitive Research: Principles and Implications, etc.)
+* Supporting member of the [Frankfurt Open Science Initiative](https://frankfurt-osi.netlify.app/)
 
 Skills
 ======
@@ -77,9 +84,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service 
-======
-* Member of the examination board Bachelor & Master Psychology (2021-present)
-* Member of the PhD board Psychology (2024-present)
-* Reviewer for several journals (Journal of Neuroscience, PLOS One, Cognitive Research: Principles and Implications, etc.)
+ 
