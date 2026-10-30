@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   unpublished:
-    title: "Unpublished"
+    title: "Upcoming"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
