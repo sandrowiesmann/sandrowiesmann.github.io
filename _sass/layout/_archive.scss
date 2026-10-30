@@ -302,3 +302,27 @@
   padding-left: 0 !important;
   text-align: left !important;
 }
+
+/* Remove indentation from the parent list containing CV publications */
+.page__content ul:has(.cv-publication-item),
+.page__content ol:has(.cv-publication-item) {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  list-style: none !important;
+}
+
+/* Remove indentation from individual CV publication entries */
+.cv-publication-item {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+}
+
+.cv-publication-item .archive__item,
+.cv-publication-item .archive__item-title,
+.cv-publication-item .archive__item-excerpt {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+  text-align: left !important;
+}
