@@ -7,6 +7,9 @@ redirect_from:
 
 {% include base_path %}
 
+![Lab logo](images/Perception and Inference Lab.png")
+
+
 Human scene understanding
 ======
 We have the  ability to make sense of the incredibly complex visual world around us within a fraction of a second. How do we achieve this remarkable feat? Which information do we use to categorize scenes as kitchens or classrooms, recognize objects such as pans and laptops, or infer the actions one can carry out in an environment?  
@@ -16,7 +19,9 @@ My research investigates human scene understanding using behavioural experiments
 
 Measuring object frequency and specificity
 ======
-To investigate visual processing with high ecological validity, we need tools that adequately represent the world as we see it in our everyday lives. But how can we reliably estimate what the real world looks like? For example, how do we know whether airfryers or rice cookers are typical objects one can find in kitchens or which of the two is more likely to be found in kitchens? Typically, vision scientists use large databases of real-world scene images to estimate object frequency or specificity (i.e., how likely an object is to be found in one scene category as compared to other scene categories). However, in a recent project, we showed that these databases massively underrepresent typical everyday objects such as toothpaste, sponges, or cutlery. We therefore argue that databases should be used with caution and warn against the "panoptic fallacy" - the assumption that databases and AI models trained on them see the world the way we do.
+To investigate visual processing with high ecological validity, we need tools that adequately represent the world as we see it in our everyday lives. But how can we reliably estimate what the real world looks like? For example, how do we know whether airfryers or rice cookers are typical objects one can find in kitchens or which of the two is more likely to be found in kitchens?  
+  
+Typically, vision scientists use large databases of real-world scene images to estimate object frequency or specificity (i.e., how likely an object is to be found in one scene category as compared to other scene categories). However, in a recent project, we showed that these databases massively underrepresent typical everyday objects such as toothpaste, sponges, or cutlery. We therefore argue that databases should be used with caution and warn against the "panoptic fallacy" - the assumption that databases and AI models trained on them see the world the way we do.
 
 
 Understanding opportunities for action in scenes
