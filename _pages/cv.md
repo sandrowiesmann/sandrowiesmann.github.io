@@ -60,18 +60,9 @@ Service
   
 Skills
 ======
-Programming languages:
-* R: Data processing and analysis with tidyverse, ggplot2, lme4, etc.
-* JavaScript: Programming (online) experiments in jsPsych
-* Python: Programming experiments in PsychoPy
-* Matlab: Programming experiments in PsychToolbox, image processing with SHINE and LabelMe toolboxes
-
-  
-Learning systems:
-* Moodle
-* OLAT
-* Mentimeter
-* eduVote
+* Programming languages: R (tidyverse, ggplot2, lme4, etc.), JavaScript (jsPsych), Python (PsychoPy), Matlab (PsychToolbox, image processing with SHINE and LabelMe)
+* Learning systems: Moodle, OLAT, Mentimeter, eduVote
+* Image processing: GIMP, Inkscape
 
   
 Publications
