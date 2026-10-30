@@ -65,7 +65,7 @@ Skills
 * Image processing: GIMP, Inkscape
 
   
-Publications
+Selected publications
 ======
 <ul>{% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
