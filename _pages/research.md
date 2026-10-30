@@ -7,7 +7,6 @@ redirect_from:
 
 {% include base_path %}
 
-![Lab logo](images/Perception and Inference Lab.png)
 ![Lab logo]({{ '/images/Perception and Inference Lab.png' | relative_url }})
 
 Human scene understanding
