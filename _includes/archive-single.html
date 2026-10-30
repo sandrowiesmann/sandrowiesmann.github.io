@@ -18,6 +18,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    
+    <p>
+      DEBUG: date={{ post.date }} |
+      year={{ post.year }}
+    </p>
 
     {% if post.collection == 'publications' %}
       <p class="archive__item-excerpt">
