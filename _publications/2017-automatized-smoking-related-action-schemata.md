@@ -3,7 +3,7 @@ title: "Automatized smoking-related action schemata are reflected by reduced fMR
 collection: publications
 category: manuscripts
 permalink: /publication/automatized-smoking-related-action-schemata
-authors: Isik, Wiesmann, et al.
+authors: Isik, Naumer, Kaiser, Buschenlange, Wiesmann, Czoschke & Yalachkov
 year: 2017
 venue: 'NeuroImage: Clinical'
 paperurl: 'https://doi.org/10.1016/j.nicl.2017.06.021'
