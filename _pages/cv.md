@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-###Ph.D. in Psychology, Goethe University Frankfurt, (2019-2023)  
+### Ph.D. in Psychology, Goethe University Frankfurt, (2019-2023)  
   Thesis title: The role of object and global scene information during human scene categorization
   
-###M.Sc. in Cognitive and Clinical Psychology, Goethe University Frankfurt (2015-2018)  
+### M.Sc. in Cognitive and Clinical Psychology, Goethe University Frankfurt (2015-2018)  
   Thesis title: From coarse blobs to fine edges? The time course of spatial frequency processing during scene categorization
   
-###B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)  
+### B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)  
   Thesis title: The relationship of object-specific sensorimotor experience and automatized actions
 
 Work experience
