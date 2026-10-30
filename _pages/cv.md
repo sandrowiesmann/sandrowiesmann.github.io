@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Ph.D. in Psychology, Goethe University Frankfurt, (2019-2023)
+  Thesis title: The role of object and global scene information during human scene categorization
+  
+M.Sc. in Cognitive and Clinical Psychology, Goethe University Frankfurt (2015-2018)
+  Thesis title: From coarse blobs to fine edges? The time course of spatial frequency processing during scene categorization
+  
+B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)
+  Thesis title: The relationship of object-specific sensorimotor experience and automatized actions
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research associate at Goethe University, Frankfurt (2019-present)
+* Independent [resarch](/research)
+* [Teaching](/teaching) lectures, seminars, and practical courses
+* Supervision of Bachelor, Master, and doctoral students
+* Module coordination and administration of participant recruitment software
+* Academic self-governance, member of several committees
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Student assistant, Max Planck Institute for Empirical Aesthetics (2015-2018)
+* Supporting interdisciplinary research in the department for music
+* Data analysis and manuscript preparation
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Student assistant, Goethe University, Frankfurt (2012-2015)
+* Supporting different quantitative and qualitative research projects
+* Assisting administration and teaching
   
+Awards
+======
+* 2026: YAVIS prize for the best seminar 2026, awarded by the psychology students at Goethe University (400€)
+* 2025: Nomination for the 1822 University prize for excellent teaching
+* 2024: Nomination for the prize for the best natural sciences PhD thesis at Goethe University
+* 2024: YAVIS prize for the best lecture 2024, awarded by the psychology students at Goethe University (1000€)
+* 2019: Young-YAVIS prize for excellent teaching, awarded by the psychology students at Goethe University (100€)
+* 2018: Schwanenberg prize for the best Master thesis 2018, awarded by the alumni network psychology at Goethe University (1000€)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming languages:
+* R: Data processing and analysis with tidyverse, ggplot2, lme4, etc.
+* JavaScript: Programming (online) experiments in jsPsych
+* Python: Programming experiments in PsychoPy
+* Matlab: Programming experiments in PsychToolbox, image processing with SHINE and LabelMe toolboxes
+
+Learning systems:
+* Moodle
+* OLAT
+* Mentimeter
+* eduVote
 
 Publications
 ======
@@ -59,6 +78,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Member of the examination board Bachelor & Master Psychology (2021-present)
+* Member of the PhD board Psychology (2024-present)
+* Reviewer for several journals (Journal of Neuroscience, PLOS One, Cognitive Research: Principles and Implications, etc.)
