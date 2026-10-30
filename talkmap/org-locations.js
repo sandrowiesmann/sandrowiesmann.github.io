@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Object frequency is underestimated in large-scale scene image databases<br />European Conference on Visual Perception; Mainz, Germany",
+    49.9995205,
+    8.2736253
   ]
 ];
