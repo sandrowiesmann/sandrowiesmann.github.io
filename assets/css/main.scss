@@ -37,6 +37,20 @@
     "layout/sidebar"
 ;
 
+
 .page__footer {
   display: none;
+}
+
+/* Always use light mode */
+html {
+  color-scheme: light !important;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #fff !important;
+  --global-text-color: #494e52 !important;
+  --global-link-color: #0056b3 !important;
+  --global-footer-bg-color: #f2f3f3 !important;
+  --global-border-color: #e0e0e0 !important;
 }
