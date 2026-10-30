@@ -283,3 +283,22 @@
 .archive__item {
   margin-bottom: 1.2em;
 }
+
+/* CV publications: left-aligned, no indentation */
+.cv-publication-item {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-align: left !important;
+}
+
+.cv-publication-item .archive__item {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.cv-publication-item .archive__item-title,
+.cv-publication-item .archive__item-excerpt {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-align: left !important;
+}
