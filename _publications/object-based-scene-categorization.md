@@ -5,5 +5,6 @@ category: unpublished
 permalink: /publication/object-based-scene-categorization
 venue: 'Manuscript in preparation'
 authors: Wiesmann & Võ
+date: 2026-07-15
 citation: 'Wiesmann, S. L., &amp; Võ, M. L.-H. (in preparation). &quot;Object-based scene categorization is a semantic process.&quot;'
 ---
