@@ -1,4 +1,4 @@
----
+e---
 layout: archive
 title: ""
 permalink: /cv/
@@ -23,7 +23,7 @@ B.Sc. in Psychology, Goethe University Frankfurt (2012-2015)
 Work experience
 ======
 Research associate at Goethe University, Frankfurt (2019-present)
-* Independent [resarch](/research)
+* Independent [research](/research)
 * [Teaching](/teaching) lectures, seminars, and practical courses
 * Supervision of Bachelor, Master, and doctoral students
 * Module coordination and administration of participant recruitment software
