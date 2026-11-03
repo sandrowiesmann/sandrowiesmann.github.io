@@ -1,3 +1,4 @@
+
 {% include base_path %}
 
 {% if post.id %}
@@ -5,6 +6,8 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+
+{% if post.collection != 'publications' or post.selected == true or post.selected == 'yes' %}
 
 <div class="cv-publication-item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -18,7 +21,7 @@
         <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
       {% endif %}
     </h3>
-    
+
     {% if post.collection == 'publications' %}
       <p class="archive__item-excerpt">
         {% if post.authors %}
@@ -44,6 +47,8 @@
         {{ post.date | date: "%B %d, %Y" }}
       </p>
     {% endif %}
-    
+
   </article>
 </div>
+
+{% endif %}
