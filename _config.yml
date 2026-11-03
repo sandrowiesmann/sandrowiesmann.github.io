@@ -29,11 +29,11 @@ author:
   bio              : "Cognitive psychologist & vision scientist"
   location         : "Frankfurt, Germany"
   employer         : "Goethe University"
-  uri              : # URL
+  uri              : https://www.uni-frankfurt.de/120691400/Dr__Sandro_Wiesmann
   email            : #"wiesmann@psych.uni-frankfurt.de" 
 
   # Academic websites
-  academia         : https://www.uni-frankfurt.de/120691400/Dr__Sandro_Wiesmann
+  academia         : 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
