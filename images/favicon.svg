@@ -1,1 +1,176 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 2 20 20"><title>OOjs_UI_icon_academic-progressive</title><path d="M12.13,14,12,14l-.13,0L7,12.63V16c0,1.1,2.24,2,5,2s5-.9,5-2V12.63Z" fill="#36c"/><path d="M21.13,9.52l-9-2.5a.39.39,0,0,0-.26,0l-9,2.5a.5.5,0,0,0,0,1l9,2.5L12,13l.13,0,9-2.5a.5.5,0,0,0,0-1Z" fill="#36c"/><path d="M19.5,14.5a1,1,0,0,0-.5-.85V10H18v3.65a1,1,0,0,0-.5.85,1,1,0,0,0,.45.81L17.5,18c0,.37.45.67,1,.67s1-.3,1-.67l-.45-2.69A1,1,0,0,0,19.5,14.5Z" fill="#36c"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.548439mm"
+   height="76.548439mm"
+   viewBox="0 0 76.548439 76.548439"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="Perception and Inference Lab9_Eye.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.79375"
+     inkscape:cx="144.25197"
+     inkscape:cy="144.25197"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff3a" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13"
+       id="linearGradient14"
+       x1="241.7944"
+       y1="534.80591"
+       x2="488.60641"
+       y2="534.80591"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1859069,0,0,1.1859069,155.76402,128.33792)" />
+    <linearGradient
+       id="linearGradient13"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#396680;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#4a7689;stop-opacity:0.74901961;"
+         offset="0.25"
+         id="stop16" />
+      <stop
+         style="stop-color:#5b8693;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop15" />
+      <stop
+         style="stop-color:#489b95;stop-opacity:0.24705882;"
+         offset="0.75"
+         id="stop17" />
+      <stop
+         style="stop-color:#3fb184;stop-opacity:0.12;"
+         offset="0.875"
+         id="stop18" />
+      <stop
+         style="stop-color:#3aa561;stop-opacity:0.05882353;"
+         offset="0.9375"
+         id="stop19" />
+      <stop
+         style="stop-color:#388d50;stop-opacity:0.02745098;"
+         offset="0.96875"
+         id="stop20" />
+      <stop
+         style="stop-color:#276332;stop-opacity:0.02;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.674999,-110.33125)">
+    <g
+       id="g2"
+       transform="matrix(0.26152878,0,0,0.26152878,304.38268,-5.39776)">
+      <circle
+         cx="588.85767"
+         cy="762.56793"
+         r="146.34802"
+         color="#000000"
+         fill="#abb8ff"
+         id="circle1"
+         style="mix-blend-mode:normal;fill:url(#linearGradient14);fill-opacity:1;fill-rule:nonzero;stroke-width:2.99391"
+         transform="rotate(90)" />
+      <circle
+         cx="-762.56793"
+         cy="588.85767"
+         r="39.15477"
+         color="#000000"
+         id="circle2"
+         style="stroke-width:0.801007" />
+      <g
+         id="g15"
+         style="fill:#eceaed;fill-opacity:1"
+         transform="matrix(0.94549331,0,0,0.94549331,-1236.4629,109.78484)">
+        <circle
+           cx="501.21445"
+           cy="433.69324"
+           r="18.897638"
+           color="#000000"
+           id="circle3"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="501.21445"
+           cy="579.68848"
+           r="18.897638"
+           color="#000000"
+           id="circle4"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="428.21683"
+           cy="506.69086"
+           r="18.897638"
+           color="#000000"
+           id="circle5"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="574.2121"
+           cy="506.69086"
+           r="18.897638"
+           color="#000000"
+           id="circle6"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="448.689"
+           cy="456.05521"
+           r="18.897638"
+           color="#000000"
+           id="circle8"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="553.57086"
+           cy="456.05521"
+           r="18.897638"
+           color="#000000"
+           id="circle9"
+           style="fill:#ecd2ed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="448.689"
+           cy="557.38586"
+           r="18.897638"
+           color="#000000"
+           id="circle11"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+        <circle
+           cx="553.57086"
+           cy="557.38586"
+           r="18.897638"
+           color="#000000"
+           id="circle12"
+           style="fill:#eceaed;fill-opacity:1;stroke-width:0.386598" />
+      </g>
+    </g>
+  </g>
+</svg>
