@@ -78,11 +78,12 @@ Skills
   
 Selected publications
 ======
-<ul>{% for post in site.publications reversed %}
+For a full list see [Publications](/publications)
+{% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}</ul>
+{% endfor %}
 
 <!--  
 Talks
@@ -94,7 +95,7 @@ Talks
   
 Teaching
 ======
-<ul>{% for post in site.teaching reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}
 
