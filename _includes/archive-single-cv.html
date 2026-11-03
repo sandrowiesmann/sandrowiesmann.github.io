@@ -4,19 +4,40 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+      {% if post.collection == "teaching" %}
+        <b>{{ title }}</b>
+      {% elsif post.paperurl %}
+        <b><a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a></b>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+        <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
       {% endif %}
     </h3>
+    
+    {% if post.collection == 'publications' %}
+      <p class="archive__item-excerpt">
+        {% if post.authors %}
+          {{ post.authors }}
+        {% endif %}
+        {% if post.date %}
+          ({{ post.date | date: "%Y" }})
+        {% endif %}
+        {% if post.venue %}
+          <i>{{ post.venue }}</i>
+        {% endif %}
+      </p>
 
-    <p class="archive__item-excerpt">
-      {{ post.authors }} ({{ post.date | date: "%Y" }})
-      {% if post.venue %}
-        <i>{{ post.venue }}</i>
-      {% endif %}
-    </p>
+    {% elsif post.collection == 'teaching' %}
+      <p>
+        {{ post.type }}, <i>{{ post.venue }}</i><br>
+        {{ post.when }}
+      </p>
 
+    {% elsif post.date %}
+      <p class="page__date">
+        <strong>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+        {{ post.date | date: "%B %d, %Y" }}
+      </p>
+    {% endif %}
+    
   </article>
 </div>
