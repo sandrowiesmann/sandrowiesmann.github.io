@@ -13,9 +13,9 @@
       {% if post.category == "unpublished" or post.collection == "teaching" %}
         <b>{{ title }}</b>
       {% elsif post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
+        <b><a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a></b>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
       {% endif %}
     </h2>
     
