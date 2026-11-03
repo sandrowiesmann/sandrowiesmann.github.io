@@ -78,7 +78,7 @@ Skills
   
 Selected publications
 ======
-For a full list see [Publications](/publications)
+For a full list see *[Publications](/publications)*
 {% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
     {% include archive-single-cv.html %}
