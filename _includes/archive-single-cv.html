@@ -6,7 +6,7 @@
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.collection == "teaching" %}
         <b>{{ title }}</b>
-      {% elsif post.paperurl %}
+      {% elsif post.collection == 'publications' %}
         <b><a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a></b>
       {% else %}
         <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
