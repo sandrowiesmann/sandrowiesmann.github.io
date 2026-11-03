@@ -7,5 +7,6 @@ venue: 'Scientific Reports'
 authors: Wiesmann & Võ
 date: 2023-04-11
 paperurl: 'https://doi.org/10.1038/s41598-023-32385-y'
+selected: yes
 citation: 'Wiesmann, S. L., &amp; Võ, M. L.-H. (2023). &quot;Disentangling diagnostic object properties for human scene categorization.&quot; <i>Scientific Reports</i>, 13, 5912.'
 ---
