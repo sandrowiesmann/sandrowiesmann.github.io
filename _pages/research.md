@@ -12,9 +12,18 @@ redirect_from:
   
 Human scene understanding
 ======
-We have the  ability to make sense of the incredibly complex visual world around us within a fraction of a second. How do we achieve this remarkable feat? Which information do we use to categorize scenes as kitchens or classrooms, recognize objects such as pans and laptops, or infer the actions one can carry out in an environment?  
+We can usually make sense of the complex visual world around us within a fraction of a second. How do we achieve this remarkable feat? Which information do we use to categorize scenes as kitchens and classrooms?
   
-My research investigates human scene understanding using behavioural experiments and psychophysics, eye-tracking, and computational modelling. Using a causally interpretable paradigm, we could show that global scene information has a limited utility for human scene categorization (Wiesmann & Võ, [2022](https://psycnet.apa.org/doi/10.1037/xhp0001020), [2026](https://doi.org/10.1037/xhp0001342)), whereas single objects can be sufficient for scene categorization if they are specific to and frequently occur in a scene category, and if they are presented close to the fixation point ([Wiesmann & Võ, 2023](https://doi.org/10.1038/s41598-023-32385-y)). However, we seem to use information flexibly depending on its availability ([Wiesmann et al., 2021](https://doi.org/10.1038/s41598-021-93252-2); [Wiesmann & Võ, 2026](https://doi.org/10.1037/xhp0001342)).  
+My research investigates human scene understanding using behavioural experiments and psychophysics, eye-tracking, and computational modelling. We could show that global scene information has a limited utility for human scene categorization (Wiesmann & Võ, [2022](https://psycnet.apa.org/doi/10.1037/xhp0001020), [2026](https://doi.org/10.1037/xhp0001342)), whereas single objects can be sufficient for scene categorization if they are specific to and frequently occur in a scene category, and if they are presented close to the fixation point ([Wiesmann & Võ, 2023](https://doi.org/10.1038/s41598-023-32385-y)). However, we seem to use information flexibly depending on its availability ([Wiesmann et al., 2021](https://doi.org/10.1038/s41598-021-93252-2); [Wiesmann & Võ, 2026](https://doi.org/10.1037/xhp0001342)).  
+  
+![Illustration of object and global scene information]({{ '/images/scene-categorization.png' | relative_url }})  
+  
+---
+  
+  
+What makes an object diagnostic?
+======
+Based on the observation that seeing single objects can often be enough to categorize ("diagnose") a scene, we systematically assessed which properties make an object diagnostic ([Wiesmann & Võ, 2023](https://doi.org/10.1038/s41598-023-32385-y)). We could show that object specificity (how often an object occurs in scenes of a category relative to scenes of other categories) and object frequency (how many scenes of a category contain the object) were the best predictors of an object's ability to enable scene categorization.
 
 ---
   
