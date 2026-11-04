@@ -23,8 +23,10 @@ In a series of experiments, we could show that global scene information has a li
   
 What makes an object diagnostic?
 ======
-Based on the observation that seeing single objects can often be enough to categorize ("diagnose") a scene, we systematically assessed which properties make an object diagnostic ([Wiesmann & Võ, 2023](https://doi.org/10.1038/s41598-023-32385-y)). We could show that object specificity (how often an object occurs in scenes of a category relative to scenes of other categories) and object frequency (how many scenes of a category contain the object) were the best predictors of an object's ability to enable scene categorization.
-
+Based on the observation that seeing single objects can often be enough to categorize ("diagnose") a scene, we systematically assessed which properties make an object diagnostic ([Wiesmann & Võ, 2023](https://doi.org/10.1038/s41598-023-32385-y)). We could show that object specificity (how often an object occurs in scenes of a category relative to scenes of other categories) and object frequency (how many scenes of a category contain the object) were the best predictors of an object's ability to enable scene categorization.  
+  
+![Relationship of different object properties with scene categorization accuracy]({{ '/images/object-diagnosticity.png' | relative_url }})  
+  
 ---
   
   
