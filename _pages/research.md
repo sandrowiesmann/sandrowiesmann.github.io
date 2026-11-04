@@ -34,8 +34,10 @@ Measuring object frequency and specificity
 ======
 To investigate visual processing with high ecological validity, we need tools that adequately represent the world as we see it in our everyday lives. But how can we reliably estimate how frequent different objects are in our environment (e.g., airfryers or rice cookers in kitchens)?
   
-Typically, vision scientists use large databases of real-world scene images to estimate object frequency. However, in a recent [project](/talks), we showed that these databases massively underrepresent typical everyday objects such as toothpaste, sponges, or cutlery. We therefore argue that databases should be used with caution and warn against the "panoptic fallacy" - the assumption that databases and AI models trained on them see the world the way we do.  
-
+Typically, vision scientists use large databases of real-world scene images to estimate object frequency. However, in a recent [project](/talks), we showed that these databases massively underrepresent typical everyday objects such as toothpaste, sponges, or cutlery. We therefore argue that databases should be used with caution and warn against the "panoptic fallacy" - the assumption that databases and AI models trained on them see the world the way we do.    
+  
+![Difference in average object frequency between scene-image databases and the real world]({{ '/images/object-frequency.png' | relative_url }})  
+    
 ---
   
   
