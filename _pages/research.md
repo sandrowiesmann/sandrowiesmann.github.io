@@ -9,7 +9,7 @@ redirect_from:
 
 ![Lab logo]({{ '/images/Perception and Inference Lab Online.svg' | relative_url }})  
 
-My research is at the intersection between vision and cognitive science. With a background in visual perception and psychophysics, I study how humans process sensory information to make sense of the world around them. However, this "making sense of" is not purely a passive, bottom-up driven, perceptual process - it goes hand in hand with top-down inference processes that require understanding the human mind as a more hollistic system that is engaging in behaviourally relevant tasks in a complex world. My research thus connects a rigorous experimental approach with the goal to make statements about natural human cognition and behaviour in the real world.  
+My research is at the intersection between vision and cognitive science. With a background in visual perception and psychophysics, I study how humans process sensory information to make sense of the world around them. However, this "making sense of" is not purely a passive, bottom-up driven, perceptual process - it goes hand in hand with top-down inference processes that require understanding the human mind as a more hollistic system engaging in behaviourally relevant tasks in a complex world. My research thus connects a rigorous experimental approach with the goal to make statements about natural human cognition and behaviour in the real world.  
   
 ---
   
