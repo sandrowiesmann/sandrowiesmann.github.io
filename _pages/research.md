@@ -44,5 +44,11 @@ Typically, vision scientists use large databases of real-world scene images to e
 Understanding opportunities for action in scenes
 ======
 One of the primary purposes of perception is to prepare and guide actions. How do we know that we can cook, sleep, or work in an environment? In recent work carried out with [Lea Müller Karoza](https://www.lmu.de/psyedu/de/personen/kontaktseite/lea-mueller-karoza-55d11cf2.html), we showed that anchor objects, usually large and stationary objects such as a sink that predict the presence and location of surrounding objects such as soap and towel, also carry relevant action information and give rise to the action opportunities one perceives in a scene (Müller Karoza, Wiesmann & Võ, [2025](https://doi.org/10.1038/s41598-025-04122-0), [2026](https://doi.org/10.1177/17470218261480626)).  
-
+    
+---
+  
+  
+All things bias  
+======
+I am deeply fascinated by the many errors our cognitive system produces. This includes classic demonstrations of inattentional blindness, visual illusions, memory biases and reasoning biases but also their application and relevance for our everyday life (e.g., how cognitive biases and beliefs shape each other). 
 
