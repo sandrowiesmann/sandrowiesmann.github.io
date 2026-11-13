@@ -8,5 +8,10 @@ var addressPoints = [
     "Object frequency is underestimated in large-scale scene image databases<br />European Conference on Visual Perception; Mainz, Germany",
     49.9995205,
     8.2736253
+  ],
+  [
+    "Is one object enough? Diagnosticity of single objects for fast scene categorization<br />Annual Meeting of the Vision Sciences Society; Online",
+    43.5904719,
+    3.8595132
   ]
 ];
