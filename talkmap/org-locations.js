@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Interplay of object and global scene information during scene categorization<br />65. Tagung experimentell arbeitender Psycholog:innen; Trier, Germany",
+    49.7596208,
+    6.6441878
+  ],
+  [
     "What Makes a Scene? The Contribution of Global Scene Information to Fast Scene Categorization<br />64. Tagung experimentell arbeitender Psycholog:innen; Cologne, Germany",
     50.938361,
     6.959974
