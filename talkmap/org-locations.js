@@ -5,6 +5,11 @@ var addressPoints = [
     6.6441878
   ],
   [
+    "The effect of stimulus resolution and object content on human scene categorization<br />66. Tagung experimentell arbeitender Psycholog:innen; Regensburg, Germany",
+    49.0195333,
+    12.0974869
+  ],
+  [
     "What Makes a Scene? The Contribution of Global Scene Information to Fast Scene Categorization<br />64. Tagung experimentell arbeitender Psycholog:innen; Cologne, Germany",
     50.938361,
     6.959974
