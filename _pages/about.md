@@ -18,18 +18,25 @@ I am passionate about [teaching](/teaching) and sharing my enthusiasm for cognit
 As an employee of a state-funded university, I am committed to democratic principles, and I am active in several academic committees. In my work, I strive for open, transparent, and reproducible research in the spirit of open science.  
 
 
+
 {% assign latest_post = site.posts.first %}
 
 {% if latest_post %}
 ## Latest News
 
-**[{{ latest_post.title }}]({{ latest_post.url | relative_url }})**
+<h3 style="margin-bottom: 0.2em;">
+  <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a>
+</h3>
 
-<small>{{ latest_post.date | date: "%B %d, %Y" }}</small>
+<p style="margin-top: 0; margin-bottom: 0.5em; font-size: 0.85em;">
+  {{ latest_post.date | date: "%B %d, %Y" }}
+</p>
 
-{{ latest_post.excerpt | markdownify }}
+<div style="margin-top: 0;">
+  {{ latest_post.content }}
+</div>
 
-[Read more →]({{ latest_post.url | relative_url }})
-
-[See all news →]({{ '/news/' | relative_url }})
+<p style="margin-top: 1em;">
+  <a href="{{ '/news/' | relative_url }}">See all news →</a>
+</p>
 {% endif %}
