@@ -17,3 +17,19 @@ I am passionate about [teaching](/teaching) and sharing my enthusiasm for cognit
   
 As an employee of a state-funded university, I am committed to democratic principles, and I am active in several academic committees. In my work, I strive for open, transparent, and reproducible research in the spirit of open science.  
 
+
+{% assign latest_post = site.posts.first %}
+
+{% if latest_post %}
+## Latest News
+
+**[{{ latest_post.title }}]({{ latest_post.url | relative_url }})**
+
+<small>{{ latest_post.date | date: "%B %d, %Y" }}</small>
+
+{{ latest_post.excerpt | markdownify }}
+
+[Read more →]({{ latest_post.url | relative_url }})
+
+[See all news →]({{ '/news/' | relative_url }})
+{% endif %}
